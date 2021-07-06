@@ -1,6 +1,4 @@
 package me.whiteship.springapplicationcontext;
 
-import org.springframework.stereotype.Repository;
-
-public class BookRepository {
+public interface BookRepository {
 }
